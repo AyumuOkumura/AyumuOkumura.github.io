@@ -1,0 +1,60 @@
+{% assign language = page.lang | default: 'en' %}
+{% assign cv = site.data.cv_content %}
+<link rel="stylesheet" href="{{ '/assets/css/custom-cv.css' | relative_url }}">
+<nav aria-label="Language / 言語" class="language-switch">
+  <a href="{{ '/' | relative_url }}" lang="en"{% if language == 'en' %} aria-current="page"{% endif %}>English</a>
+  <span aria-hidden="true"> / </span>
+  <a href="{{ '/ja/' | relative_url }}" lang="ja"{% if language == 'ja' %} aria-current="page"{% endif %}>日本語</a>
+</nav>
+
+<div class="cv-profile-layout">
+<div class="cv-profile">
+{% if language == 'ja' %}{% assign foundation_name = '日本科学未来財団' %}{% else %}{% assign foundation_name = 'Japan Future Science Foundation' %}{% endif %}
+{% capture foundation_link %}<a class="foundation-link" href="https://japan-future-science-foundation.org/">{{ foundation_name }}</a>{% endcapture %}
+{% for item in cv.profile[language] %}
+  <p>{{ item | escape | replace: foundation_name, foundation_link }}</p>
+{% endfor %}
+  <p class="cv-updated">{{ cv.updated[language] | escape }}</p>
+</div>
+<img class="cv-portrait" src="{{ '/assets/profile/portrait.jpg' | relative_url }}" alt="{% if language == 'ja' %}奥村 歩の写真{% else %}Portrait of Ayumu Okumura{% endif %}" width="786" height="800">
+</div>
+
+<nav class="social-icons" aria-label="{% if language == 'ja' %}連絡先とSNS{% else %}Contact and social profiles{% endif %}">
+  <a class="social-icon" href="mailto:okumura-ayumu958@g.ecc.u-tokyo.ac.jp" aria-label="Email" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i><span>Email</span></a>
+  <a class="social-icon" href="https://www.linkedin.com/in/ayumu-okumura-ayuoku" aria-label="LinkedIn" title="LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
+  <a class="social-icon" href="https://bsky.app/profile/ayumuokumura.bsky.social" aria-label="Bluesky" title="Bluesky"><i class="fa-brands fa-bluesky" aria-hidden="true"></i><span>Bluesky</span></a>
+  <a class="social-icon" href="http://re-medicine.stemcell-imsut.org/" aria-label="Lab website" title="Lab website"><i class="fa-solid fa-flask" aria-hidden="true"></i><span>Lab website</span></a>
+  <a class="social-icon" href="https://regenmed-imsut.github.io/re-medicine-mirror/" aria-label="Lab website (global mirror)" title="Lab website (global mirror)"><i class="fa-solid fa-globe" aria-hidden="true"></i><span>Lab website<br>(global mirror)</span></a>
+  <a class="social-icon" href="https://researchmap.jp/ayumu-okumura" aria-label="researchmap" title="researchmap"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i><span>researchmap</span></a>
+  <a class="social-icon" href="https://meishi.mybridge.com/MbOakALED32x1n8c?channel=url&amp;openExternalBrowser=1" aria-label="myBridge business card" title="myBridge business card"><i class="fa-solid fa-address-card" aria-hidden="true"></i><span>myBridge<br>business card</span></a>
+</nav>
+
+<nav class="profile-links" aria-label="{% if language == 'ja' %}外部リンク{% else %}External profiles{% endif %}">
+  {% if language == 'ja' %}<a href="{{ '/ja/cv/' | relative_url }}"><i class="fa-solid fa-file-arrow-down" aria-hidden="true"></i> CVのダウンロード</a>{% else %}<a href="{{ '/cv/' | relative_url }}"><i class="fa-solid fa-file-arrow-down" aria-hidden="true"></i> Download CV</a>{% endif %}
+</nav>
+
+<nav class="cv-toc" aria-label="{% if language == 'ja' %}目次{% else %}Contents{% endif %}">
+  <h2>{% if language == 'ja' %}目次{% else %}Contents{% endif %}</h2>
+  <ul>
+  {% for section in cv.sections %}
+    <li><a href="#{{ section.id }}">{{ section.label[language] | escape }}</a></li>
+  {% endfor %}
+  </ul>
+</nav>
+
+{% for section in cv.sections %}
+<section class="cv-section" id="{{ section.id }}">
+  <h2>{{ section.label[language] | escape }}</h2>
+  {% if section.id == 'biosketch' %}
+    {% for entry in section.entries %}<p>{{ entry[language] | escape }}</p>{% endfor %}
+  {% else %}
+    <ul class="cv-list">
+      {% for entry in section.entries %}
+        {% assign source = site.data.cv_links[entry.id] %}
+        <li>{{ entry[language] | escape }}{% if source %} <a class="cv-source-link" href="{{ source.url | escape }}"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> {{ source.label | escape }}</a>{% endif %}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</section>
+{% endfor %}
+<p><a href="#top">{% if language == 'ja' %}ページの先頭へ{% else %}Back to top{% endif %}</a></p>

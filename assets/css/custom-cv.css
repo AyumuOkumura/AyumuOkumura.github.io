@@ -1,0 +1,26 @@
+/* Site-specific, restrained styling; content remains readable without color. */
+.language-switch { margin: 0 0 1.5rem; }
+.cv-profile-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(170px, 245px); gap: 1.75rem; align-items: start; }
+.cv-portrait { width: 100%; height: auto; border-radius: .5rem; }
+@media (max-width: 600px) { .cv-profile-layout { grid-template-columns: 1fr; gap: 1rem; } .cv-portrait { width: min(70%, 245px); } }
+.cv-profile p { margin: 0 0 .3rem; }
+.cv-profile p:last-child { margin-top: 1rem; }
+.cv-updated { color: var(--global-text-color-light, #555); font-size: .9rem; }
+[lang="ja"] .foundation-link { white-space: nowrap; }
+.social-icons { display: flex; justify-content: center; flex-wrap: wrap; gap: .5rem 1.5rem; margin: 1.5rem 0; }
+.social-icon { display: flex; flex-direction: column; align-items: center; justify-content: flex-start; width: 6rem; min-height: 5.5rem; color: var(--global-text-color, #222); text-decoration: none; text-align: center; }
+.social-icon i { font-size: 2.75rem; line-height: 1.1; }
+.social-icon span { font-size: .8rem; margin-top: .25rem; }
+.social-icon:hover { color: var(--global-theme-color, #0368a8); text-decoration: underline; }
+.profile-links { display: flex; flex-wrap: wrap; gap: .55rem 1rem; margin: 1.4rem 0 2rem; }
+.profile-links a, .cv-toc a { text-decoration: underline; text-underline-offset: .15em; }
+.cv-toc { border-top: 1px solid var(--global-divider-color, #ddd); border-bottom: 1px solid var(--global-divider-color, #ddd); padding: 1rem 0; }
+.cv-toc h2 { margin-top: 0; }
+.cv-toc ul { display: flex; flex-wrap: wrap; gap: .3rem 1.4rem; padding: 0; list-style: none; }
+.cv-section { margin-top: 2.2rem; scroll-margin-top: 5rem; }
+.cv-section h2 { margin-bottom: .8rem; }
+.cv-list { list-style: none; padding: 0; }
+.cv-list li { margin-bottom: .8rem; overflow-wrap: anywhere; }
+.profile-links i, .cv-source-link i { margin-right: .2em; }
+.cv-source-link { white-space: nowrap; font-size: .9em; text-decoration: underline; text-underline-offset: .15em; }
+a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }

@@ -1,0 +1,336 @@
+{
+  "updated": {
+    "en": "Updated November 2026",
+    "ja": "2026年11月更新"
+  },
+  "profile": {
+    "en": [
+      "PhD candidate",
+      "Division of Regenerative Medicine",
+      "Center for Stem Cell Biology and Regenerative Medicine",
+      "The Institute of Medical Science",
+      "The University of Tokyo",
+      "Department of Computational Biology and Medical Science",
+      "Graduate School of Frontier Sciences",
+      "The University of Tokyo",
+      "JSPS Research Fellow (DC2) | Japan Future Science Foundation Scholarship (from December 2026)"
+    ],
+    "ja": [
+      "奥村 歩",
+      "博士課程",
+      "東京大学医科学研究所",
+      "附属幹細胞治療研究センター",
+      "再生医学分野",
+      "東京大学",
+      "東京大学大学院新領域創成科学研究科",
+      "メディカル情報生命専攻",
+      "東京大学",
+      "日本学術振興会特別研究員（DC2）／日本科学未来財団奨学生（2026年12月より予定）"
+    ]
+  },
+  "sections": [
+    {
+      "id": "awards",
+      "label": {
+        "en": "SELECTED RECOGNITIONS / FELLOWSHIPS",
+        "ja": "受賞・フェローシップ"
+      },
+      "entries": [
+        {
+          "id": "awards-1",
+          "en": "6. Dec 2026–Nov 2027: Japan Future Science Foundation scholarship (scheduled).",
+          "ja": "6. 2026年12月〜2027年11月：日本科学未来財団奨学生（予定）。"
+        },
+        {
+          "id": "awards-2",
+          "en": "5. Nov 2026: Excellent Oral Presentation Award, joint meeting of the 33rd Annual Meeting of the Japanese Society for the Research of Hepatic Cells and the 40th Annual Meeting of Hepatic Sinusoidal Research Japan; presentation O3-1.",
+          "ja": "5. 2026年11月：一般口演 優秀賞、第33回肝細胞研究会・第40回肝類洞壁細胞研究会学術集会 合同大会、演題番号 O3-1。"
+        },
+        {
+          "id": "awards-3",
+          "en": "4. Mar 2026: Excellent Research Award, Department of Computational Biology and Medical Science, Graduate School of Frontier Sciences, The University of Tokyo.",
+          "ja": "4. 2026年3月：Excellent Research Award、東京大学大学院新領域創成科学研究科メディカル情報生命専攻。"
+        },
+        {
+          "id": "awards-4",
+          "en": "3. Jun 2025: Science Moves Award, Science Moves Foundation.",
+          "ja": "3. 2025年6月：Science Moves Award、Science Moves Foundation。"
+        },
+        {
+          "id": "awards-5",
+          "en": "2. Apr 2025–Mar 2027: JSPS Research Fellowship for Young Scientists (DC2), Japan Society for the Promotion of Science.",
+          "ja": "2. 2025年4月〜2027年3月：日本学術振興会特別研究員（DC2）。"
+        },
+        {
+          "id": "awards-6",
+          "en": "1. Apr 2023–Mar 2026: SPRING GX project student, The University of Tokyo.",
+          "ja": "1. 2023年4月〜2026年3月：東京大学 SPRING GX プロジェクト生。"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "label": {
+        "en": "EDUCATION",
+        "ja": "学歴"
+      },
+      "entries": [
+        {
+          "id": "education-1",
+          "en": "3. Apr 2023–present: PhD candidate, Department of Computational Biology and Medical Science, Graduate School of Frontier Sciences, The University of Tokyo.",
+          "ja": "3. 2023年4月〜現在：東京大学大学院新領域創成科学研究科メディカル情報生命専攻 博士課程。"
+        },
+        {
+          "id": "education-2",
+          "en": "2. Apr 2021–Mar 2023: Master of Medical Science, Department of Computational Biology and Medical Science, Graduate School of Frontier Sciences, The University of Tokyo.",
+          "ja": "2. 2021年4月〜2023年3月：東京大学大学院新領域創成科学研究科メディカル情報生命専攻 修士課程、修士（医科学）。"
+        },
+        {
+          "id": "education-3",
+          "en": "1. Apr 2017–Mar 2021: Bachelor’s degree in Pharmaceutical Sciences, Faculty of Pharmaceutical Sciences, Kyoto University.",
+          "ja": "1. 2017年4月〜2021年3月：京都大学薬学部薬科学科、学士（薬科学）。"
+        }
+      ]
+    },
+    {
+      "id": "biosketch",
+      "label": {
+        "en": "BIOSKETCH",
+        "ja": "研究概要"
+      },
+      "entries": [
+        {
+          "id": "biosketch-1",
+          "en": "PhD candidate in the Division of Regenerative Medicine, the Institute of Medical Science, The University of Tokyo. Studies liver and biliary system development using experimental and computational approaches, with a focus on extrahepatic bile duct organogenesis. Has used three-dimensional imaging and comprehensive gene expression analysis to investigate organ formation and identify candidate regulatory factors. Has also derived hypotheses about developmental mechanisms from single-cell transcriptome analysis and explored them through simulation. Presented this work at a doctoral research presentation meeting, receiving the Excellent Research Award, and at the joint meeting of the Japanese Society for the Research of Hepatic Cells and Hepatic Sinusoidal Research Japan, receiving an Excellent Oral Presentation Award.",
+          "ja": "東京大学医科学研究所再生医学分野の博士課程学生。実験と計算解析を組み合わせ、肝外胆管の器官形成を中心に肝臓・胆道系の発生を研究する。三次元イメージングと網羅的遺伝子発現解析を行い、器官形成のプロセスや制御因子の候補を明らかにした。さらに、シングルセル・トランスクリプトーム解析から発生メカニズムに関する仮説を導出し、シミュレーションを行った。この研究を博士優秀論文発表会（Excellent Research Award受賞）や第33回肝細胞研究会・第40回肝類洞壁細胞研究会学術集会合同大会（一般口演優秀賞受賞）で発表した。"
+        },
+        {
+          "id": "biosketch-2",
+          "en": "Has worked on differentiation of human induced pluripotent stem cells and induction of epithelial structures based on developmental insights. Aims to elucidate the mechanisms of bile duct development and generate human iPSC-derived bile duct organoids as a model for understanding the etiology and pathogenesis of congenital biliary diseases, including biliary atresia.",
+          "ja": "発生学的知見に基づき、ヒトiPS細胞からの分化誘導と上皮構造の誘導に取り組んできた。胆管発生の仕組みを明らかにし、ヒトiPS細胞由来胆管オルガノイドを創出することで、胆道閉鎖症を含む先天性胆管疾患の病因・病態の理解につながるヒトモデルの構築を目指す。"
+        },
+        {
+          "id": "biosketch-3",
+          "en": "Has contributed three-dimensional imaging expertise in organoids and mouse liver tissue to collaborative projects on pancreatic cancer organoids, bile duct formation in human iPSC-derived liver organoids, and liver organoid transplantation. At the Science Moves Conference, presented “Fate decision,” explaining the significance, approach, and motivation of the research to a non-specialist audience.",
+          "ja": "また、オルガノイドやマウス肝臓の三次元イメージング技術を活かし、膵がんオルガノイド、ヒトiPS細胞由来肝臓オルガノイドの胆管形成、肝臓オルガノイド移植に関する複数の共同研究に貢献した。Science Moves Conferenceでは「運命決定」と題し、研究の意義、アプローチ、動機を研究の専門家ではない一般の人々に向けて紹介した。"
+        }
+      ]
+    },
+    {
+      "id": "preprints",
+      "label": {
+        "en": "Preprint",
+        "ja": "プレプリント"
+      },
+      "entries": [
+        {
+          "id": "preprints-1",
+          "en": "1. Yamamoto Y, Takeuchi K, Tabe S, Okumura A, Aoshima K, Eto R, Konishi T, Yamamoto N, Miyagi Y, Ohtsuka M, Tanimizu N, Taniguchi H. Tumor-associated tissue-resident macrophages drive pancreatic cancer progression through IGF1-IGF1R signaling. bioRxiv. 2026. doi:10.64898/2026.05.08.723679. Preprint.",
+          "ja": "1. Yamamoto Y, Takeuchi K, Tabe S, Okumura A, Aoshima K, Eto R, Konishi T, Yamamoto N, Miyagi Y, Ohtsuka M, Tanimizu N, Taniguchi H. Tumor-associated tissue-resident macrophages drive pancreatic cancer progression through IGF1-IGF1R signaling. bioRxiv. 2026. doi:10.64898/2026.05.08.723679. Preprint."
+        }
+      ]
+    },
+    {
+      "id": "articles",
+      "label": {
+        "en": "Peer-reviewed articles",
+        "ja": "査読付き論文"
+      },
+      "entries": [
+        {
+          "id": "articles-1",
+          "en": "5. Matsumoto R, Kanda H, Kawasaki A, Nakamura M, Nagata R, Xie H, Huang X, Okumura A, Miyoshi K, Kobayashi T, Matsuyama M, Kondo S, Saito K, Igaki T. Genetic landscaping of cell competition uncovers two core pathways mediated by Xrp1 or Eiger/TNF in Drosophila. Genetics. 2026;233(1):iyag067. doi:10.1093/genetics/iyag067.",
+          "ja": "5. Matsumoto R, Kanda H, Kawasaki A, Nakamura M, Nagata R, Xie H, Huang X, Okumura A, Miyoshi K, Kobayashi T, Matsuyama M, Kondo S, Saito K, Igaki T. Genetic landscaping of cell competition uncovers two core pathways mediated by Xrp1 or Eiger/TNF in Drosophila. Genetics. 2026;233(1):iyag067. doi:10.1093/genetics/iyag067."
+        },
+        {
+          "id": "articles-2",
+          "en": "4. Tabe S, Takeuchi K, Aoshima K, Okumura A, Yamamoto Y, Yanagisawa K, Eto R, Matsuo M, Ueno Y, Konishi T, Furukawa Y, Yamaguchi K, Morinaga S, Miyagi Y, Ohtsuka M, Tanimizu N, Taniguchi H. A pancreatic cancer organoid incorporating macrophages reveals the correlation between the diversity of tumor-associated macrophages and cancer cell survival. Biomaterials. 2025;314:122838. doi:10.1016/j.biomaterials.2024.122838.",
+          "ja": "4. Tabe S, Takeuchi K, Aoshima K, Okumura A, Yamamoto Y, Yanagisawa K, Eto R, Matsuo M, Ueno Y, Konishi T, Furukawa Y, Yamaguchi K, Morinaga S, Miyagi Y, Ohtsuka M, Tanimizu N, Taniguchi H. A pancreatic cancer organoid incorporating macrophages reveals the correlation between the diversity of tumor-associated macrophages and cancer cell survival. Biomaterials. 2025;314:122838. doi:10.1016/j.biomaterials.2024.122838."
+        },
+        {
+          "id": "articles-3",
+          "en": "3. Carolina E, Kuse Y, Okumura A, Aoshima K, Tadokoro T, Matsumoto S, Kanai E, Okumura T, Kasai T, Yamabe S, Nishikawa Y, Yamaguchi K, Furukawa Y, Tanimizu N, Taniguchi H. Generation of human iPSC-derived 3D bile duct within liver organoid by incorporating human iPSC-derived blood vessel. Nature Communications. 2024;15:7424. doi:10.1038/s41467-024-51487-3.",
+          "ja": "3. Carolina E, Kuse Y, Okumura A, Aoshima K, Tadokoro T, Matsumoto S, Kanai E, Okumura T, Kasai T, Yamabe S, Nishikawa Y, Yamaguchi K, Furukawa Y, Tanimizu N, Taniguchi H. Generation of human iPSC-derived 3D bile duct within liver organoid by incorporating human iPSC-derived blood vessel. Nature Communications. 2024;15:7424. doi:10.1038/s41467-024-51487-3."
+        },
+        {
+          "id": "articles-4",
+          "en": "2. Tadokoro T, Murata S, Kato M, Ueno Y, Tsuchida T, Okumura A, Kuse Y, Konno T, Uchida Y, Yamakawa Y, Zushi M, Yajima M, Kobayashi T, Hasegawa S, Kawakatsu-Hatada Y, Hayashi Y, Osakabe S, Maeda T, Kimura K, Mori A, Tanaka M, Kamishibahara Y, Matsuo M, Nie YZ, Okamoto S, Oba T, Tanimizu N, Taniguchi H. Human iPSC–liver organoid transplantation reduces fibrosis through immunomodulation. Science Translational Medicine. 2024;16(757):eadg0338. doi:10.1126/scitranslmed.adg0338.",
+          "ja": "2. Tadokoro T, Murata S, Kato M, Ueno Y, Tsuchida T, Okumura A, Kuse Y, Konno T, Uchida Y, Yamakawa Y, Zushi M, Yajima M, Kobayashi T, Hasegawa S, Kawakatsu-Hatada Y, Hayashi Y, Osakabe S, Maeda T, Kimura K, Mori A, Tanaka M, Kamishibahara Y, Matsuo M, Nie YZ, Okamoto S, Oba T, Tanimizu N, Taniguchi H. Human iPSC–liver organoid transplantation reduces fibrosis through immunomodulation. Science Translational Medicine. 2024;16(757):eadg0338. doi:10.1126/scitranslmed.adg0338."
+        },
+        {
+          "id": "articles-5",
+          "en": "1. Okumura A, Aoshima K, Tanimizu N. Generation of in vivo-like multicellular liver organoids by mimicking developmental processes: A review. Regenerative Therapy. 2024;26:219–234. doi:10.1016/j.reth.2024.05.020.",
+          "ja": "1. Okumura A, Aoshima K, Tanimizu N. Generation of in vivo-like multicellular liver organoids by mimicking developmental processes: A review. Regenerative Therapy. 2024;26:219–234. doi:10.1016/j.reth.2024.05.020."
+        }
+      ]
+    },
+    {
+      "id": "chapter",
+      "label": {
+        "en": "Book chapter",
+        "ja": "書籍分担執筆"
+      },
+      "entries": [
+        {
+          "id": "chapter-1",
+          "en": "1. Okumura A, Tanimizu N. Preparation of Functional Human Hepatocytes Ex Vivo. In: Tanimizu N, ed. Hepatocytes. Methods in Molecular Biology. 2022;2544:269–278. doi:10.1007/978-1-0716-2557-6_20.",
+          "ja": "1. Okumura A, Tanimizu N. Preparation of Functional Human Hepatocytes Ex Vivo. In: Tanimizu N, ed. Hepatocytes. Methods in Molecular Biology. 2022;2544:269–278. doi:10.1007/978-1-0716-2557-6_20."
+        }
+      ]
+    },
+    {
+      "id": "presentations",
+      "label": {
+        "en": "PRESENTATIONS",
+        "ja": "講演・学会発表"
+      },
+      "entries": [
+        {
+          "id": "presentations-1",
+          "en": "7. Nov 20, 2026. Okumura A, Tanimizu N, Taniguchi H. Deciphering extrahepatic bile duct organogenesis. Joint meeting of the 33rd Annual Meeting of the Japanese Society for the Research of Hepatic Cells and the 40th Annual Meeting of Hepatic Sinusoidal Research Japan, Shimonoseki, Japan. Oral presentation O3-1.",
+          "ja": "7. 2026年11月20日　奥村歩、谷水直樹、谷口英樹．Deciphering extrahepatic bile duct organogenesis（肝外胆管の発生メカニズム解析）．第33回肝細胞研究会・第40回肝類洞壁細胞研究会学術集会 合同大会、下関。一般口演 O3-1。"
+        },
+        {
+          "id": "presentations-2",
+          "en": "6. Dec 20, 2025. Okumura A, Tanimizu N, Taniguchi H. Deciphering extrahepatic bile duct organogenesis. 34th Liver Biology Study Group - Japan meeting (第34回日本肝臓医生物学研究会).",
+          "ja": "6. 2025年12月20日　奥村歩、谷水直樹、谷口英樹．Deciphering extrahepatic bile duct organogenesis（肝外胆管の発生メカニズム解析）．第34回日本肝臓医生物学研究会。"
+        },
+        {
+          "id": "presentations-3",
+          "en": "5. Jul 16, 2025. Okumura A, Tanimizu N, Taniguchi H. Deciphering extrahepatic bile duct organogenesis. Joint Annual Meeting of the 58th Japan Society of Developmental Biologists and the 77th Japan Society for Cell Biology.",
+          "ja": "5. 2025年7月16日　奥村歩、谷水直樹、谷口英樹．Deciphering extrahepatic bile duct organogenesis．第58回日本発生生物学会・第77回日本細胞生物学会 合同大会。"
+        },
+        {
+          "id": "presentations-4",
+          "en": "4. Apr 18, 2025. Okumura A. Fate decision. Science Moves Conference, Science Moves Foundation. Invited.",
+          "ja": "4. 2025年4月18日　奥村歩．運命決定（Fate decision）．Science Moves Conference、Science Moves Foundation。招待。"
+        },
+        {
+          "id": "presentations-5",
+          "en": "3. Jul 26, 2024. Okumura A, Aoshima K, Tanimizu N, Taniguchi H. Pdx1 lineage tracing analysis in developing liver. 31st Annual Meeting of the Japanese Society for the Research of Hepatic Cells (第31回肝細胞研究会).",
+          "ja": "3. 2024年7月26日　奥村歩、青嶋研治、谷水直樹、谷口英樹．Pdx1 lineage tracing analysis in developing liver（発生期肝臓におけるPdx1細胞系譜解析）．第31回肝細胞研究会。"
+        },
+        {
+          "id": "presentations-6",
+          "en": "2. Dec 23, 2023. Okumura A, Tanimizu N, Taniguchi H. Generation of human iPSC-derived extrahepatic bile duct organoids based on developmental analysis. 32nd Liver Biology Study Group - Japan meeting (第32回日本肝臓医生物学研究会).",
+          "ja": "2. 2023年12月23日　奥村歩、谷水直樹、谷口英樹．Generation of human iPSC-derived extrahepatic bile duct organoids based on developmental analysis（発生学的解析に基づくヒトiPS細胞由来肝外胆管オルガノイドの創出）．第32回日本肝臓医生物学研究会。"
+        },
+        {
+          "id": "presentations-7",
+          "en": "1. Nov 12, 2023. Okumura A, Taniguchi H, Tanimizu N. Generation of human iPSC-derived extrahepatic bile duct organoids based on developmental analysis. First Cell Biology Colloquium (第一回細胞生物コロキウム).",
+          "ja": "1. 2023年11月12日　奥村歩、谷口英樹、谷水直樹．Generation of human iPSC-derived extrahepatic bile duct organoids based on developmental analysis（発生学的解析にもとづくヒトiPS細胞由来肝外胆管オルガノイドの創出）．第一回細胞生物コロキウム。"
+        }
+      ]
+    },
+    {
+      "id": "teaching",
+      "label": {
+        "en": "TEACHING ACTIVITIES",
+        "ja": "教育活動"
+      },
+      "entries": [
+        {
+          "id": "teaching-1",
+          "en": "1. Apr–Jul 2023: Teaching Assistant, First-Year Seminar in Natural Sciences (初年次ゼミナール理科), College of Arts and Sciences, The University of Tokyo.",
+          "ja": "1. 2023年4月〜7月：ティーチング・アシスタント、初年次ゼミナール理科、東京大学教養学部。"
+        }
+      ]
+    },
+    {
+      "id": "funding",
+      "label": {
+        "en": "EXTERNAL RESEARCH FUNDING",
+        "ja": "外部研究資金"
+      },
+      "entries": [
+        {
+          "id": "funding-1",
+          "en": "3. Apr 2025–Mar 2028: Science Moves Award, Science Moves Foundation. “Generation of extrahepatic bile duct organoid in pluripotent stem cells.” Principal investigator.",
+          "ja": "3. 2025年4月〜2028年3月：Science Moves Foundation、Science Moves Award「発生学的解析に基づくヒトiPS細胞由来肝外胆管オルガノイドの創出」。研究代表者。"
+        },
+        {
+          "id": "funding-2",
+          "en": "2. Apr 2025–Mar 2027: Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science. “Generation of Human iPSC-derived Extrahepatic Bile Duct Organoids Based on Developmental Mechanisms.” Principal investigator; 25KJ1098.",
+          "ja": "2. 2025年4月〜2027年3月：日本学術振興会 科学研究費助成事業 特別研究員奨励費「発生学的解析を基盤としたヒトiPS細胞由来肝外胆管オルガノイドの創出」。研究代表者、25KJ1098。"
+        },
+        {
+          "id": "funding-3",
+          "en": "1. Apr 2023–Mar 2025: JST SPRING, Advanced Human Resource Development Leading Green Transformation (SPRING GX).",
+          "ja": "1. 2023年4月〜2025年3月：科学技術振興機構 次世代研究者挑戦的研究プログラム（SPRING）「グリーントランスフォーメーション（GX）を先導する高度人材育成（SPRING GX）」。"
+        }
+      ]
+    },
+    {
+      "id": "memberships",
+      "label": {
+        "en": "PROFESSIONAL MEMBERSHIPS",
+        "ja": "所属学協会"
+      },
+      "entries": [
+        {
+          "id": "memberships-1",
+          "en": "4. May 2025–present: Japanese Society of Developmental Biologists.",
+          "ja": "4. 2025年5月〜現在：日本発生生物学会。"
+        },
+        {
+          "id": "memberships-2",
+          "en": "3. May 2024–present: European Association for the Study of the Liver.",
+          "ja": "3. 2024年5月〜現在：European Association for the Study of the Liver。"
+        },
+        {
+          "id": "memberships-3",
+          "en": "2. Apr 2024–present: International Society for Stem Cell Research.",
+          "ja": "2. 2024年4月〜現在：International Society for Stem Cell Research。"
+        },
+        {
+          "id": "memberships-4",
+          "en": "1. Apr 2024–present: 肝細胞研究会.",
+          "ja": "1. 2024年4月〜現在：肝細胞研究会。"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "label": {
+        "en": "MEDIA COVERAGE",
+        "ja": "メディア報道"
+      },
+      "entries": [
+        {
+          "id": "media-1",
+          "en": "3. Oct 23, 2025. “Cheering on favorite researchers: bringing scholarship and society closer” [translated title]. Sankei Shimbun, p. 12.",
+          "ja": "3. 2025年10月23日　「推し研究者」にエールを 市民に魅力紹介、寄付募集 学問と社会、より身近に。産経新聞、12面。"
+        },
+        {
+          "id": "media-2",
+          "en": "2. Aug 2024. “Bile duct structures reproduced within human iPSC-derived liver organoids” [translated title]. The Institute of Medical Science, The University of Tokyo. Press release.",
+          "ja": "2. 2024年8月　ヒトiPS細胞由来の肝臓オルガノイド内部に胆管構造を再現 ――ヒト臓器創出技術の開発やヒト胆道疾患モデルの構築に期待――。東京大学医科学研究所、プレスリリース。"
+        },
+        {
+          "id": "media-3",
+          "en": "1. Dec 2023. “Graduate Students at IMSUT” [translated title]. The Institute of Medical Science, The University of Tokyo, PLATINUM STREET TIMES, Vol. 7.",
+          "ja": "1. 2023年12月　医科研の大学院生たち。東京大学医科学研究所、PLATINUM STREET TIMES 第7号。"
+        }
+      ]
+    },
+    {
+      "id": "software",
+      "label": {
+        "en": "RESEARCH SOFTWARE",
+        "ja": "研究ソフトウェア"
+      },
+      "entries": [
+        {
+          "id": "software-1",
+          "en": "2. umap3d_gif (R package).",
+          "ja": "2. umap3d_gif（Rパッケージ）。"
+        },
+        {
+          "id": "software-2",
+          "en": "1. StackVln (R package).",
+          "ja": "1. StackVln（Rパッケージ）。"
+        }
+      ]
+    }
+  ]
+}
