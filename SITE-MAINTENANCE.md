@@ -20,6 +20,7 @@ python -m unittest discover -s tests -v
 
 - `_data/cv_content.json`: paired English and Japanese profile sections. Keep matching IDs, dates, and order in sync. Entries are text from the November 2026 CV and are displayed in source order.
 - `_data/cv_links.json`: verified external sources keyed by entry ID, shared across languages. Labels distinguish DOI, lab news, KAKEN, and GitHub; use a source-specific label when adding links.
+- `_pages/photos.md` + `_data/photos.yml` + `assets/photos/`: photo gallery at `/photos/`. Add a photo by placing the file in `assets/photos/` and adding one entry to `_data/photos.yml`; the page template does not need editing. Images are publicly downloadable once pushed.
 - `_includes/cv_sections.liquid`: shared presentation of both homepages; this site-specific include is a local al-folio override. Check override compatibility after upgrading the upstream gems.
 - `_pages/about.md` and `_pages/ja.md`: homepages; CV download pages are `_pages/cv_download*.md`.
 - `assets/profile/portrait.jpg`: profile photo. Replace this file with an optimized, metadata-free JPEG, then check the image dimensions in `_includes/cv_sections.liquid` and preview both languages.

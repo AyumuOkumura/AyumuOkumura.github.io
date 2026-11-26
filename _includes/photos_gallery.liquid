@@ -1,0 +1,17 @@
+{% assign photos = site.data.photos %}
+{% assign photo_base = '/assets/photos/' %}
+<link rel="stylesheet" href="{{ '/assets/css/custom-photos.css' | relative_url }}">
+<div class="photo-masonry">
+  {% for photo in photos %}
+    {% assign photo_url = photo_base | append: photo.file | relative_url %}
+    <figure class="photo-item">
+      <a class="photo-link" href="{{ photo_url }}" data-lightbox="photos" data-title="{{ photo.caption | escape }}">
+        <img src="{{ photo_url }}" alt="{{ photo.alt | default: photo.caption | escape }}" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        {% if photo.date %}<span class="photo-date">{{ photo.date }}</span>{% endif %}
+        {{ photo.caption | escape }}
+      </figcaption>
+    </figure>
+  {% endfor %}
+</div>

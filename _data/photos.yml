@@ -1,0 +1,58 @@
+# Photo gallery entries. Order here = order on the page (newest first).
+#
+# To add a photo:
+#   1. put the image in assets/photos/ (long edge ~1600px, JPEG, metadata stripped)
+#   2. add one entry at the TOP of this list
+# The page template (_pages/photos.md / _includes/photos_gallery.liquid) never needs editing.
+#
+# Fields: file (required) / caption (required) / date / alt (screen readers; falls back to caption)
+
+- file: 01.jpg
+  date: "2023.08"
+  alt: Stars and a bright planet above the lights of a town
+  caption: Stars over the lights of a town.
+
+- file: 02.jpg
+  date: "2023.08"
+  alt: A person in a dark jacket sitting on a mountain slope before sunrise
+  caption: Sitting on the slope, waiting for the sun.
+
+- file: 03.jpg
+  date: "2023.08"
+  alt: Mountain ridge with a long shadow stretching into the distance
+  caption: Our shadow stretched the whole way down the ridge.
+
+- file: 04.jpg
+  date: "2023.03"
+  alt: Small building among rocks and shrubs with a red PANALABAN sign
+  caption: Panalaban — the last flat ground before the top.
+
+- file: 05.jpg
+  date: "2023.03"
+  alt: Smiling person with a headlamp standing in front of a trail sign at night
+  caption: Headlamp on, grinning at the trail sign.
+
+- file: 06.jpg
+  date: "2023.03"
+  alt: Rocky ridge above a sea of clouds at dawn, with small figures of climbers
+  caption: Above the cloud sea, before the light.
+
+- file: 07.jpg
+  date: "2023.03"
+  alt: Sea of clouds seen past rocky ground, lit pale yellow near the horizon
+  caption: The clouds looked solid enough to stand on.
+
+- file: 08.jpg
+  date: "2023.03"
+  alt: Two climbers on a rocky ridge under an orange and pink sky
+  caption: Two of us on the ridge, waiting.
+
+- file: 09.jpg
+  date: "2023.02"
+  alt: Mosque with a blue-patterned dome and several towers seen across water
+  caption: A mosque across the water, on a grey day.
+
+- file: 10.jpg
+  date: "2023.02"
+  alt: The same mosque domes and towers seen across still water
+  caption: The same dome, a little further along.
