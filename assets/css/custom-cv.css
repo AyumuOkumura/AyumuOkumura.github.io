@@ -24,3 +24,8 @@
 .profile-links i, .cv-source-link i { margin-right: .2em; }
 .cv-source-link { white-space: nowrap; font-size: .9em; text-decoration: underline; text-underline-offset: .15em; }
 a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+.cv-contact { margin-top: 2.6rem; border-top: 1px solid var(--global-divider-color, #ddd); padding-top: 1rem; font-size: .9rem; line-height: 1.6; }
+.cv-contact h2 { font-size: 1rem; margin: 0 0 .45rem; }
+.cv-contact p { margin: 0 0 .2rem; }
+.cv-contact a { text-decoration: underline; text-underline-offset: .15em; }
+
